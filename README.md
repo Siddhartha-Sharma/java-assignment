@@ -1,2 +1,4 @@
 # java-assignment
-I created the given java project. It has 2 Solutions based on assignment questions. 
+It has 2 solutions based on the given assignments. 
+1. First Assignment inside -- package name question1
+2. Second Assignment inside -- package name question2
