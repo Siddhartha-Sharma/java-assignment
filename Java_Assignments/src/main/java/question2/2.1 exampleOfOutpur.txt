@@ -1,0 +1,20 @@
+Ascending order.
+19/03/2019 - NetHood
+19/03/2019 - PrintHood
+19/03/2019 - Templates
+02/12/2019 - ntuser.dat.log1
+02/12/2019 - ntuser.dat.log2
+02/12/2019 - NTUSER.DAT
+02/12/2019 - NTUSER.DAT
+02/12/2019 - AppData
+02/12/2019 - ntuser.ini
+
+Descending order.
+------------------------------------
+25/08/2020 - Downloads
+24/08/2020 - .p2
+24/08/2020 - Desktop
+19/08/2020 - OneDrive
+28/07/2020 - JaspersoftWorkspace
+26/07/2020 - .eclipse
+25/07/2020 - Application Data
